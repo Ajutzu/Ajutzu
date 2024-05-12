@@ -1,5 +1,5 @@
+![Banner](https://drive.google.com/uc?export=view&id=1cr2PBmtz_2LLUK_44H1GUo5qLmteAYpv)
 <h1 align="center">Hi 👋, I'm Aeron James A. Castillo</h1>
-<h3 align="center">I am an IT student majoring in business analytics from the Philippines.</h3>
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajutzu&label=Profile%20views&color=0e75b6&style=flat" alt="ajutzu" /> </p>
 
