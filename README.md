@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=17rRakN4jdt9ndtHfcIFdjvL2LhOMMnmW" alt="Banner" width="1010" height="200">
+
 
 <h1 align="center">Hi 👋, I'm Aeron James A. Castillo</h1>
 <img align="right" alt="Coding" width="400"  src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
