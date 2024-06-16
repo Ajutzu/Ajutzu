@@ -72,8 +72,25 @@
   </table>
 </div>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ajutzu" alt="Ajutzu GitHub stats" style="width: 100%; border-radius: 10px;">
-  </div>
+<table align="center">
+ <tr>
+    <td style="text-align:center; width: 50%; vertical-align: top;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=ajutzu&show_icons=true&theme=radical" alt="Ajutzu GitHub stats" style="width: 100%; height: auto; object-fit: contain; border-radius: 10px;">
+        </a>
+    </td>
+    <td style="text-align:center; width: 50%; vertical-align: top;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+              <img src="https://github-readme-stats.vercel.app/api?username=ajutzu&show_icons=true&theme=tokyonight" alt="Ajutzu GitHub stats" style="width: 100%; height: auto; object-fit: contain; border-radius: 10px;">
+        </a>
+    </td>
+ </tr>
+</table>
+
+
+
+
+
+
 
 
