@@ -13,65 +13,65 @@
 </p>
 
 
-<div align="center" style="background-color: blue; padding: 20px; border-radius: 10px;">
-  <h2>Tools and Languages</h2>
+<div style="background-color: blue; padding: 20px; border-radius: 10px;">
+  <h2 align="center">Tools and Languages</h2>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; background-color: red; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    <div style="text-align: center; padding: 10px;">
+  <div style="text-align: left; background-color: red; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 60px; height: 60px;"/>
       </a>
       <br>C++
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="width: 60px; height: 60px;"/>
       </a>
       <br>CSS
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 60px; height: 60px;"/>
       </a>
       <br>HTML
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 60px; height: 60px;"/>
       </a>
       <br>Java
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 60px; height: 60px;"/>
       </a>
       <br>MySQL
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" style="width: 60px; height: 60px;"/>
       </a>
       <br>Photoshop
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" style="width: 60px; height: 60px;"/>
       </a>
       <br>PHP
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="width: 60px; height: 60px;"/>
       </a>
       <br>PostgreSQL
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="width: 60px; height: 60px;"/>
       </a>
       <br>Python
     </div>
-    <div style="text-align: center; padding: 10px;">
+    <div style="display: inline-block; text-align: center; padding: 10px;">
       <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="width: 60px; height: 60px;"/>
       </a>
@@ -79,6 +79,7 @@
     </div>
   </div>
 </div>
+
 
 
 
