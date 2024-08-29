@@ -16,7 +16,7 @@
 <div align="center" style="background-color: blue; padding: 20px; border-radius: 10px;">
   <h2>Tools and Languages</h2>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: red; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; flex-wrap: nowrap; justify-content: center; background-color: red; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); overflow-x: auto;">
     <div style="text-align: center; padding: 10px;">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 60px; height: 60px;"/>
@@ -79,6 +79,7 @@
     </div>
   </div>
 </div>
+
 
 <table align="center">
  <tr>
