@@ -16,8 +16,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1L0NxmIr2bOpin5BqikzHO6asegaNmX84" alt="My Banner" style="width: 100%; height: auto; border-radius: 10px;">
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajutzu" alt="ajutzu" /></a> </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajutzu&show_icons=true&locale=en&layout=compact" alt="ajutzu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajutzu&show_icons=true&locale=en" alt="ajutzu" /></p>
