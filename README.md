@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm @ajutzu</h1>
-<h3 align="center">A BSIT NT Student 3rd Year programmer 
+<h3 align="center">A BSIT NT Student 3rd Year programmer </h3>
 
 
 - 🔭 I’m currently working on making my github good for my future
