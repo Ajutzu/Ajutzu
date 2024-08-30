@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm @ajutzu</h1>
+<h3 align="center">A BSIT NT Student 3rd Year programmer</h3>
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://tenor.com/bje94.gif" alt="Rgb Rainbow GIF" style="width: 100%; max-width: 500px;">
