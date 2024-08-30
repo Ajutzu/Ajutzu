@@ -12,9 +12,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1h1tYsy9L2R7qIEDVCMkatlt7fecZuSgy" alt="my banner" style="width: 100%; height: auto; border-radius: 10px;">
 </p>
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1L0NxmIr2bOpin5BqikzHO6asegaNmX84" alt="My Banner" style="width: 100%; height: auto; border-radius: 10px;">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajutzu&show_icons=true&locale=en&layout=compact" alt="ajutzu" /></p>
 
@@ -28,10 +25,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/24069675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24069675" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1L0NxmIr2bOpin5BqikzHO6asegaNmX84" alt="My Banner" style="width: 100%; height: auto; border-radius: 10px;">
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
 
 
