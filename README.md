@@ -1,3 +1,6 @@
+<div style="background-image: url('![image](https://github.com/user-attachments/assets/b7c72b10-68cd-46eb-94e5-1635d67b10cc)
+'); padding: 20px; text-align: center;">
+
 <h1 align="center">Hi 👋, I'm @ajutzu</h1>
 <h3 align="center">A BSIT NT Student 3rd Year programmer</h3>
 
