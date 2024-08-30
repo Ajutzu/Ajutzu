@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm @ajutzu</h1>
 <h3 align="center">A BSIT NT Student 3rd Year programmer 
 
-<a href="https://ajutzu.github.io/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #4994ec; text-align: center; text-decoration: none; border-radius: 5px;">Open Folder</a></h3>
+<a href="https://ajutzu.github.io/" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #4994ec; text-align: center; text-decoration: none; border-radius: 5px;">My Portfolio</a></h3>
 
 - 🔭 I’m currently working on making my github good for my future
 
