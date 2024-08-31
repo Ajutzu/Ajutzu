@@ -4,11 +4,11 @@
 <h3 align="center">A BSIT NT Student 3rd Year programmer </h3>
 
 
-- 🔭 I’m currently working on making my github good for my future
+- 🔭 I’m currently working on making my github presentable for my future
 
 - 🌱 I’m currently learning **Html, JavaScript and CSS**
 
-- 👯 I’m looking to collaborate on **Any System application**
+- 👯 I’m looking to collaborate on **Any Projects that i can help**
 
 - 🤝 I’m looking for help with **Learning more about Software and Web Development**
 
