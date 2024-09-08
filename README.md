@@ -7,7 +7,7 @@
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
 
-- 🔭 I’m currently working on facebook duplicate website
+- 🔭 I’m currently working on **Facebook duplicate website**
 
 - 🌱 I’m currently learning **Html, JavaScript and CSS**
 
@@ -49,12 +49,7 @@
   </a>
 </p>
 
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1L0NxmIr2bOpin5BqikzHO6asegaNmX84" alt="My Banner" style="width: 100%; height: auto; border-radius: 10px;">
-</p>
-
-
+<h1>📊 GitHub Stats:</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajutzu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ajutzu" /></p>
 
