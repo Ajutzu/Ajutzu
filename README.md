@@ -4,7 +4,6 @@
 
 
 <h1>Hi 👋, Everyone</h1> 
-<hr>
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
 
@@ -18,7 +17,7 @@
 
 - 📫 How to reach me **aeronjamescastillo6@gmail.com**
 
-### 🔧 Languages and Tools:
+<h1>💻 Tech Stack:</h1>
 
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
