@@ -6,6 +6,7 @@
 <h1>💫 Hi 👋, Everyone</h1> 
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
+![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
 
 
 
