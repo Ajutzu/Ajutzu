@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm @ajutzu</h1>
-<h3 align="center">A BSIT NT Student 3rd Year programmer </h3>
+<h1>Hi 👋, I'm @ajutzu</h1> ![](https://komarev.com/ghpvc/?username=ajutzu&style=for-the-badge)
+<h3>A BSIT NT Student 3rd Year programmer </h3>
 
 
 - 🔭 I’m currently working on making my github presentable for my future
@@ -66,10 +66,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ajutzu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajutzu&theme=tokyonight" alt="ajutzu" /></p>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1L0NxmIr2bOpin5BqikzHO6asegaNmX84" alt="My Banner" style="width: 100%; height: auto; border-radius: 10px;">
