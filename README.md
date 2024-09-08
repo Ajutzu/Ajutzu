@@ -1,7 +1,8 @@
 
 
-<h1>Hi 👋, I'm @ajutzu</h1> 
 ![](https://komarev.com/ghpvc/?username=ajutzu)
+
+<h1>Hi 👋, I'm @ajutzu</h1> 
 
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
