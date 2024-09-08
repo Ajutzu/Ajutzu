@@ -4,12 +4,7 @@
 
 
 <h1>💫 Hi 👋, Everyone</h1> 
-<h3>A BSIT NT Student 3rd Year programmer </h3>
-
-![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
-
-
-
+<h2>A BSIT NT Student 3rd Year programmer </h2>
 
 - 🔭 I’m currently working on **Facebook duplicate website**
 
@@ -24,6 +19,11 @@
 <h1>💻 Tech Stack:</h1>
 
 <p>
+  ![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
+  <a href="https://www.mongodb.com/" target="_blank">
+     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   </a>
