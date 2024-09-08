@@ -61,9 +61,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajutzu&show_icons=true&locale=en&theme=tokyonight" alt="ajutzu" /></p>
 
 <h1>🔝 Top Contributed Repo </h1>
-![](https://github-contributor-stats.vercel.app/api?username=ajutzu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajutzu&theme=tokyonight" alt="ajutzu" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=ajutzu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <hr>
 
