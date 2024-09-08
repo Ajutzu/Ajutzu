@@ -7,7 +7,7 @@
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
 
-- 🔭 I’m currently working on making my github presentable for my future
+- 🔭 I’m currently working on facebook duplicate website
 
 - 🌱 I’m currently learning **Html, JavaScript and CSS**
 
