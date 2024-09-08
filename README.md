@@ -3,8 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ajutzu&style=flat-square)
 
 
-<h1>Hi 👋, I'm @ajutzu</h1> 
-
+<h1>Hi 👋, Everyone</h1> 
+<hr>
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
 
