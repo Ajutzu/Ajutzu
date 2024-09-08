@@ -6,6 +6,8 @@
 <h1>💫 Hi 👋, Everyone</h1> 
 <h2>A BSIT NT Student 3rd Year programmer </h2>
 
+![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
+
 - 🔭 I’m currently working on **Facebook duplicate website**
 
 - 🌱 I’m currently learning **Html, JavaScript and CSS**
@@ -19,7 +21,6 @@
 <h1>💻 Tech Stack:</h1>
 
 <p>
-  ![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
   <a href="https://www.mongodb.com/" target="_blank">
      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
