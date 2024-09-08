@@ -1,6 +1,7 @@
 
 
-![](https://komarev.com/ghpvc/?username=ajutzu)
+![Profile views](https://komarev.com/ghpvc/?username=ajutzu&style=flat-square)
+
 
 <h1>Hi 👋, I'm @ajutzu</h1> 
 
