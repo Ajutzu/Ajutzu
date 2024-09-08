@@ -3,8 +3,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ajutzu&style=flat-square)
 
 
-<h1>💫 Hi 👋, Everyone</h1> 
-<h3>A BSIT NT Student 3rd Year programmer </h3>
+<h1>💫 Hi 👋, Everyone:</h1> 
+<h3>I am BSIT NT student 3rd year programmer </h3>
 
 ![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
 
@@ -60,7 +60,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajutzu&show_icons=true&locale=en&theme=tokyonight" alt="ajutzu" /></p>
 
-<h1>🔝 Top Contributed Repo </h1>
+<h1>🔝 Top Contributed Repo:</h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajutzu&theme=tokyonight" alt="ajutzu" /></p>
 
