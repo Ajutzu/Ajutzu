@@ -1,6 +1,7 @@
 
 
-<h1>Hi 👋, I'm @ajutzu</h1> ![](https://komarev.com/ghpvc/?username=ajutzu&style=for-the-badge)
+<h1>Hi 👋, I'm @ajutzu</h1> 
+![Profile views](https://komarev.com/ghpvc/?username=ajutzu&style=for-the-badge)
 <h3>A BSIT NT Student 3rd Year programmer </h3>
 
 
