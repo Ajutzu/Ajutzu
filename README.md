@@ -4,7 +4,9 @@
 
 
 <h1>💫 Hi 👋, Everyone:</h1> 
-I am ![Custom Badge](https://img.shields.io/badge/BSIT-NT-orange?style=for-the-badge)  student 3rd year programmer 
+
+<h3>I am a IT undergraduate at Batangas State University with a passion for coding, technology, and solving real-world problems through software development.</h3>
+![Custom Badge](https://img.shields.io/badge/BSIT-NT-orange?style=for-the-badge)
 
 - 🔭 I’m currently working on **Facebook duplicate website**
 
