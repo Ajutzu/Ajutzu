@@ -5,8 +5,7 @@
 
 <h1>💫 Hi 👋, Everyone:</h1> 
 
-<h3>I am a IT undergraduate at Batangas State University with a passion for coding, technology, and solving real-world problems through software development.</h3>
-![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
+<h3>As an IT undergraduate at Batangas State University, I have a strong passion for coding, technology, and using software development to solve real-world challenges.</h3>
 
 - 🔭 I’m currently working on **Facebook duplicate website**
 
