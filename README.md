@@ -4,9 +4,7 @@
 
 
 <h1>💫 Hi 👋, Everyone:</h1> 
-<h3>I am BSIT NT student 3rd year programmer </h3>
-
-![Custom Badge](https://img.shields.io/badge/Corn-Hub-orange?style=for-the-badge)
+I am ![Custom Badge](https://img.shields.io/badge/BSIT-NT-orange?style=for-the-badge)  student 3rd year programmer 
 
 - 🔭 I’m currently working on **Facebook duplicate website**
 
