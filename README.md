@@ -7,7 +7,7 @@
 
 <h3>As an IT undergraduate at Batangas State University, I have a strong passion for coding, technology, and using software development to solve real-world challenges.</h3>
 
-- 🔭 I’m currently working on **Facebook duplicate website**
+- 🔭 I’m currently working on **E-commerce Software System**
 
 - 🌱 I’m currently learning **Html, JavaScript and CSS**
 
