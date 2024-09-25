@@ -1,1 +1,1 @@
-<iframe src="https://chromedino.com/" width="600" height="400" style="border:none;"></iframe>
+![Animated Banner](https://media.giphy.com/media/l3q2K4jW4BY2iB3iM/giphy.gif)
