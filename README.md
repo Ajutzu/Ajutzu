@@ -1,1 +1,1 @@
-![Dinosaur GIF](https://drive.google.com/uc?id=1OeITyKwHdr-CPPas0iTAZHUKXORE5id1)
+![Dinosaur GIF](ezgif-5-32d985739b.gif)
