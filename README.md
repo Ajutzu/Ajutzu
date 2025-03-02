@@ -2,12 +2,7 @@
 
 **`Digital Craftsman (Developer/Designer/Learner)`**
 
-<table>
-  <tr>
-    <td width="50%">
-      
-<h2 align="left" id="macropower-tech"> Brief Introduction </h2>
-          <p align="justify">
+<p align="justify">
         I'm a full-stack web developer and IT student, building my version of the digital world one step at a time. All my coding projects are built from the ground up—starting from planning and designing to solving real-life problems with code. I am always learning and improving, embracing new technologies to refine my skills and create impactful real-life solutions.
       </p>
     <p align="left"> 
@@ -17,14 +12,6 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ajutzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
              <img src="https://komarev.com/ghpvc/?username=ajutzu&style=for-the-badge" alt="Profile Views Badge">
 </p>
-    </td>
-    <td width="50%" align="center">
-  <img src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="GitHub Stats" height="270" width="100%">
-    </td>
-  </tr>
-</table>
-
-
 
 
 
