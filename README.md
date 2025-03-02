@@ -1,4 +1,4 @@
-# 💻 Ajutzu
+<h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi, Welcome!</h2>
 
 **`Digital Craftsman (Developer/Designer/Learner)`**
 
@@ -11,7 +11,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ajutzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
