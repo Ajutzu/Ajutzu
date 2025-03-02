@@ -2,14 +2,31 @@
 
 **`Digital Craftsman (Developer/Designer/Learner)`**
 
-<p align="justify"> I'm a web full-stack developer and an IT student, building my version of the digital world one step at a time. All my coding projects are built from the ground up—starting from planning and designing to solving real-life problems with code. I am always learning and improving, embracing new technologies to refine my skills and create impactful real life solutions. </p>
-
-<p align="left"> 
+<table>
+  <tr>
+    <td width="50%">
+      
+<h2 align="left" id="macropower-tech"> Brief Introduction </h2>
+          <p align="justify">
+        I'm a full-stack web developer and IT student, building my version of the digital world one step at a time. All my coding projects are built from the ground up—starting from planning and designing to solving real-life problems with code. I am always learning and improving, embracing new technologies to refine my skills and create impactful real-life solutions.
+      </p>
+    <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ajutzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Ajutzu?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ajutzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+             <img src="https://komarev.com/ghpvc/?username=ajutzu&style=for-the-badge" alt="Profile Views Badge">
 </p>
+    </td>
+    <td width="50%" align="center">
+  <img src="https://gifdb.com/images/high/nerd-ginger-cat-typing-8308pf65yrgevcln.gif" alt="GitHub Stats" height="270" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Favorite Tech</h2>
 
@@ -91,5 +108,7 @@
     </td>
   </tr>
 </table>
+
+
 
 
