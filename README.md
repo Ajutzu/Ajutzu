@@ -1,5 +1,6 @@
-🏄‍♂️ Ajutzu
-Digital Craftsman (Developer/Designer/Learner)
+# 💻 Ajutzu
+
+**`Digital Craftsman (Developer/Designer/Learner)`**
 
 I'm a web full-stack developer and an IT student, building my version of the digital world one step at a time. All my coding projects are built from the ground up—starting from planning and designing to solving real-life problems with code. I am always learning and improving, embracing new technologies to refine my skills and create impactful software solutions.
 
