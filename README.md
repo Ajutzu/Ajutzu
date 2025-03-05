@@ -19,83 +19,20 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="48" height="48" alt="Steam" />
-      </a>
-      <br>Steam
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#ajutzu-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VSCode
-    </td>
-  </tr>
-</table>
-
+<p display="flex">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+</p>
 
 
 
