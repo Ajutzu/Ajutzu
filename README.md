@@ -35,4 +35,4 @@
 </p>
 
 
-
+<img src="https://raw.githubusercontent.com/ajutzu/ajutzu/output/snake.svg" alt="Snake animation" />
