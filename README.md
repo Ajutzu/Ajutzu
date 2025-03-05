@@ -34,5 +34,3 @@
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/ajutzu/ajutzu/output/snake.svg" alt="Snake animation" />
