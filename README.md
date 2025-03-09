@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Designer/Learner)`**
 
 <p align="justify">
-        I'm a full-stack web developer and IT student, building my version of the digital world one step at a time. All my coding projects are built from the ground up—starting from planning and designing to solving real-life problems with code. I am always learning and improving, embracing new technologies to refine my skills and create impactful real-life solutions.
+        "I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand the MVC architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React on Udemy to further expand my skills and stay up-to-date with modern web development."
       </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
