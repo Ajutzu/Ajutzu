@@ -3,14 +3,12 @@
 **`Digital Craftsman (Developer/Designer/Learner)`**
 
 <p align="justify">
-        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand the MVC architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React ⚛️, EJS 📝, Web3 🌐, and DApp 🔗 development, on Udemy to further expand my skills and stay up-to-date with modern web development.
+        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand different software architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React ⚛️, EJS 📝, Web3 🌐, and DApp 🔗 development, on Udemy to further expand my skills and stay up-to-date with modern web development.
       </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ajutzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Ajutzu?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ajutzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-             <img src="https://komarev.com/ghpvc/?username=ajutzu&style=for-the-badge" alt="Profile Views Badge">
 </p>
 
 
