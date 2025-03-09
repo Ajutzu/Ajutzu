@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Designer/Learner)`**
 
 <p align="justify">
-        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand the MVC architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React on Udemy to further expand my skills and stay up-to-date with modern web development.
+        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand the MVC architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React ⚛️, EJS 📝, Web3 🌐, and DApp 🔗 development, on Udemy to further expand my skills and stay up-to-date with modern web development.
       </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
