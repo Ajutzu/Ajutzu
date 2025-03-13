@@ -1,6 +1,6 @@
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi, Welcome!</h2>
 
-**`Digital Craftsman (Developer/Designer/Learner)`**
+**`Digital Craftsman (Developer/Designer/Student)`**
 
 <p align="justify">
         I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand different software architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React ⚛️, EJS 📝, Web3 🌐, and DApp 🔗 development, on Udemy to further expand my skills and stay up-to-date with modern web development.
