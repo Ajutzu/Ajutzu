@@ -3,8 +3,8 @@
 **`Digital Craftsman (Developer/Designer/Student)`**
 
 <p align="justify">
-        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand different software architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning      
-     on Udemy or Free Code Camp to further expand 🚀 my skills and stay up-to-date with modern web development.
+      I'm a 3rd-year BSIT NT student and a full-stack web developer. I'm familiar with different types of software architectures, including MVC, client-to-server, and layered architecture. I also have experience with JWT for authentication and am knowledgeable in different API protocols like REST API 
+      and WebSocket. Currently, I'm learning on Udemy and FreeCodeCamp to further expand 🚀 my skills and stay up-to-date with modern web development
       </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
