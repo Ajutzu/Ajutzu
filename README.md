@@ -3,7 +3,8 @@
 **`Digital Craftsman (Developer/Designer/Student)`**
 
 <p align="justify">
-        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand different software architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning React ⚛️, EJS 📝, Web3 🌐, and DApp 🔗 development, on Udemy to further expand my skills and stay up-to-date with modern web development.
+        I'm a 3rd-year BSIT NT student and a full-stack web developer. I understand different software architecture and work with a tech stack that includes HTML, CSS, JavaScript, Bootstrap, PHP, EJS, Express, Node.js, MySQL, and PostgreSQL. Currently, I'm learning      
+     on Udemy or Free Code Camp to further expand my skills and stay up-to-date with modern web development.
       </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
@@ -35,5 +36,11 @@
   <img alt="Express" title="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="EJS" title="EJS" src="https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white"/>
   <img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+  <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Python Flask" title="Python Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt="YOLO" title="YOLO" src="https://img.shields.io/badge/YOLO-FF7043?style=for-the-badge&logo=yolo&logoColor=white"/>
+  <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
+
+
 
