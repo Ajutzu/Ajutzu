@@ -40,6 +40,9 @@
   <img alt="Python Flask" title="Python Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="YOLO" title="YOLO" src="https://img.shields.io/badge/YOLO-FF7043?style=for-the-badge&logo=yolo&logoColor=white"/>
   <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Shadcn" title="Shadcn" src="https://img.shields.io/badge/Shadcn-v0-4B5563?style=for-the-badge&logo=shadcn&logoColor=white"/>
+  <img alt="Tailwind CSS" title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
 </p>
 
 
