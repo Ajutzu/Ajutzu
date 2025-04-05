@@ -37,8 +37,6 @@
   <img alt="Jinja2" title="Jinja2" src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/> 
   <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="Socket.io" title="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
-  <img alt="Shadcn" title="Shadcn" src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
   <img alt="Tailwind CSS" title="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
@@ -46,7 +44,7 @@
 
 > Tools & Platforms that I'd work with.
 
-<p align="left" display="flex">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 4px;">
   <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
   <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="VSCode" title="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -59,7 +57,11 @@
   <img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img alt="Hostinger" title="Hostinger" src="https://img.shields.io/badge/Hostinger-0088D4?style=for-the-badge&logo=hostinger&logoColor=white"/>
   <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img alt="Socket.io" title="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="Shadcn" title="Shadcn" src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
+  <img alt="Storybook" title="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </p>
+
 
 
 
