@@ -5,7 +5,7 @@
 
 **`Digital Craftsman (Developer/Designer/Student)`**
 <p align="justify">
-I’m a full-stack web developer and 3rd-year BSIT NT student with 4 years of experience building modern, scalable applications. I specialize in Next.js, Tailwind, Shadcn v0, and secure backends with Node.js, PHP, REST APIs, and WebSocket. Experienced in JWT authentication and leveraging AI and the internet as innovation tools, I focus on clean, maintainable code. I’m also exploring Flutter for cross-platform apps while continuously learning via Udemy and FreeCodeCamp.
+I’m a full-stack web developer and a senior BSIT NT student with 4 years of experience building modern, scalable applications. I specialize in Next.js, Tailwind, Shadcn v0, and secure backends with Node.js, PHP, REST APIs, and WebSocket. Experienced in JWT authentication and leveraging AI and the internet as innovation tools, I focus on clean, maintainable code. I’m also exploring Flutter for cross-platform apps while continuously learning via Udemy and FreeCodeCamp.
 </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
