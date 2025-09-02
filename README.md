@@ -1,9 +1,8 @@
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi, Welcome!</h2>
 
 **`Digital Craftsman (Developer/Designer/Student)`**
-
 <p align="justify">
-I'm a 3rd-year BSIT NT student and a full-stack web developer. I’m familiar with different types of software architectures, including MVC, client-to-server, and layered architecture. I also have experience with JWT for authentication and am knowledgeable in different API protocols like REST API and WebSocket. I like to use AI for productivity, but that doesn’t mean I skip proper practices — I always hide API keys or sensitive credentials and ensure proper coding structure. I love working with v0 and Next.js for building modern, elegant UIs. I’m also exploring mobile app development with Flutter, bringing my web development knowledge into the Android ecosystem. Currently, I’m learning on Udemy and FreeCodeCamp to further expand 🚀 my skills and stay up-to-date with modern web and mobile development.
+I’m a full-stack web developer and 3rd-year BSIT NT student with 4 years of experience building modern, scalable applications. I specialize in Next.js, Tailwind, Shadcn v0, and secure backends with Node.js, PHP, REST APIs, and WebSocket. Experienced in JWT authentication and leveraging AI and the internet as innovation tools, I focus on clean, maintainable code. I’m also exploring Flutter for cross-platform apps while continuously learning via Udemy and FreeCodeCamp.
 </p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
@@ -63,6 +62,35 @@ I'm a 3rd-year BSIT NT student and a full-stack web developer. I’m familiar wi
   <img alt="Shadcn" title="Shadcn" src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
   <img alt="Storybook" title="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </p>
+
+
+<h2 align="left" id="macropower-tech"><img src="https://i.pinimg.com/originals/0d/5d/3d/0d5d3d28f50d56155150c36578460730.gif" width="28" /> Some Projects</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://cutis-ai.vercel.app/">
+        <img src="/Projects/Cutis.png" width="320" alt="Cutis - AI Scanner"/>
+        <h4>🩺 Cutis - AI Scanner</h4>
+      </a>
+      <p><strong>Tech:</strong> Flask · YOLOv8 · Next.js · Express · MongoDB · Gemini AI</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://trektribe.wuaze.com/">
+        <img src="/Projects/TrekTribe.png" width="320" alt="TrekTribe - Rank Your Distance"/>
+        <h4>🥾 TrekTribe - Rank Your Distance</h4>
+      </a>
+      <p><strong>Tech:</strong> PHP · Bootstrap · MySQL · HTML · Google APIs · OpenAI</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://gradify.likesyou.org/">
+        <img src="/Projects/Gradify.png" width="320" alt="Gradify - GPA Ranking"/>
+        <h4>🎓 Gradify - GPA Ranking</h4>
+      </a>
+      <p><strong>Tech:</strong> PHP · Bootstrap · MySQL · HTML · JavaScript · Share API</p>
+    </td>
+  </tr>
+</table>
 
 
 
