@@ -3,9 +3,8 @@
 **`Digital Craftsman (Developer/Designer/Student)`**
 
 <p align="justify">
-      I'm a 3rd-year BSIT NT student and a full-stack web developer. I'm familiar with different types of software architectures, including MVC, client-to-server, and layered architecture. I also have experience with JWT for authentication and am knowledgeable in different API protocols like REST API 
-      and WebSocket. Currently, I'm learning on Udemy and FreeCodeCamp to further expand 🚀 my skills and stay up-to-date with modern web development
-      </p>
+I'm a 3rd-year BSIT NT student and a full-stack web developer. I’m familiar with different types of software architectures, including MVC, client-to-server, and layered architecture. I also have experience with JWT for authentication and am knowledgeable in different API protocols like REST API and WebSocket. I like to use AI for productivity, but that doesn’t mean I skip proper practices — I always hide API keys or sensitive credentials and ensure proper coding structure. I love working with v0 and Next.js for building modern, elegant UIs. I’m also exploring mobile app development with Flutter, bringing my web development knowledge into the Android ecosystem. Currently, I’m learning on Udemy and FreeCodeCamp to further expand 🚀 my skills and stay up-to-date with modern web and mobile development.
+</p>
     <p align="left"> 
       <a href="https://github.com/Ajutzu?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Ajutzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -34,6 +33,8 @@
   <img alt="Python Flask" title="Python Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="YOLO" title="YOLO" src="https://img.shields.io/badge/YOLO-FF7043?style=for-the-badge&logo=yolo&logoColor=white"/>
   <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Flutter" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Jinja2" title="Jinja2" src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white"/> 
   <img alt="MySQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -56,6 +57,7 @@
   <img alt="OnRender" title="OnRender" src="https://img.shields.io/badge/OnRender-4C6D79?style=for-the-badge&logo=render&logoColor=white"/>
   <img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   <img alt="Hostinger" title="Hostinger" src="https://img.shields.io/badge/Hostinger-0088D4?style=for-the-badge&logo=hostinger&logoColor=white"/>
+  <img alt="Netlify" title="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img alt="Socket.io" title="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img alt="Shadcn" title="Shadcn" src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
