@@ -18,23 +18,18 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
 
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Favorite Tech</h2>
 
-> 💻 Languages  
+> 💻 Languages, ⚡ Frameworks & Libraries 
 
 <p align="left">
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="C++" title="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="SQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Java" title="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="SQL" title="MySQL" src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-> ⚡ Frameworks & Libraries 
-
-<p align="left">
   <img alt="React" title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Express" title="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -50,7 +45,7 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
   <img alt="Storybook" title="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
 </p>
 
-> 🛠️ Tools  
+> 🛠️ Tools, ☁️ Deployment & Platforms
 
 <p align="left">
   <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
@@ -60,11 +55,6 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
   <img alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img alt="Trello" title="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img alt="Adobe Photoshop" title="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-</p>
-
-> ☁️ Deployment & Platforms
-
-<p align="left">
   <img alt="AWS EC2" title="AWS EC2" src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
   <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Vercel" title="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
