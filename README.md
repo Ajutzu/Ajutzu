@@ -1,5 +1,5 @@
 
-<img src="header.gif" alt="Header GIF" width=1000>
+<img src="cover.gif" alt="Header GIF" width=1000>
 
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi, Welcome!</h2>
 
