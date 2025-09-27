@@ -6,7 +6,7 @@ class HybridVibeCoder {
     this.name = "Aeron Jme Castillo";
     this.role = "BSIT NT Student";
     this.languageSpoken = ["en_US", "tl_PH"];
-    this.skills = ["Backend", "Bit of Frontend", "Beginner Pen-tester", "Basic DevOps"];
+    this.skills = ["Backend", "Bit of Frontend", "Vulnerability Finder", "Basic DevOps"];
   }
 
   sayHi() {
