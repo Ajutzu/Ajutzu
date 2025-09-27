@@ -1,12 +1,25 @@
-<h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Hello Hater</h2>
-
 ```javascript
 class HybridVibeCoder {
   constructor() {
     this.name = "Aeron Jme Castillo";
     this.role = "BSIT NT Student";
     this.languageSpoken = ["en_US", "tl_PH"];
-    this.skills = ["Backend", "Bit of Frontend", "Vulnerability Finder", "Basic DevOps"];
+    this.skills = [
+      `Backend: I develop backend services following best practices, 
+       separating responsibilities into controllers, services, and repositories 
+       for clean architecture.`,
+      
+      `Frontend: I can handle frontend development with AI assistance, 
+       but without it, working with hooks and managing state can still be challenging. 
+       I am learning state management frameworks like Zustand.`,
+      
+      `Vulnerability Assessment: I can identify vulnerabilities in applications 
+       using tools like SQLmap to test for injectable parameters. 
+       I also perform stress tests like DoS/DDoS to evaluate scalability and security.`,
+      
+      `DevOps: I can deploy applications using Render, Vercel, and GitHub. 
+       I am still learning CI/CD with GitHub Actions, Docker, and AWS EC2.`
+    ];
   }
 
   sayHi() {
