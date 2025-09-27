@@ -1,6 +1,3 @@
-
-<img src="github-banner.gif" alt="Header GIF" width=1000>
-
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi, Welcome!</h2>
 
 **`Digital Craftsman (Developer/Designer/Student)`**
@@ -64,35 +61,6 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
   <img alt="Netlify" title="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
-
-
-<h2 align="left" id="macropower-tech"><img src="https://i.pinimg.com/originals/0d/5d/3d/0d5d3d28f50d56155150c36578460730.gif" width="28" /> Some Projects</h2>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://cutis-ai.vercel.app/">
-        <img src="/Projects/Cutis.png" width="320" alt="Cutis - AI Scanner"/>
-        <h4>🩺 Cutis - AI Scanner</h4>
-      </a>
-      <p><strong>Tech:</strong> Flask · YOLOv8 · Next.js · Express · MongoDB · Gemini AI</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://trektribe.wuaze.com/">
-        <img src="/Projects/TrekTribe.png" width="320" alt="TrekTribe - Rank Your Distance"/>
-        <h4>🥾 TrekTribe - Rank Your Distance</h4>
-      </a>
-      <p><strong>Tech:</strong> PHP · Bootstrap · MySQL · HTML · Google APIs · OpenAI</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://gradify.likesyou.org/">
-        <img src="/Projects/Gradify.png" width="320" alt="Gradify - GPA Ranking"/>
-        <h4>🎓 Gradify - GPA Ranking</h4>
-      </a>
-      <p><strong>Tech:</strong> PHP · Bootstrap · MySQL · HTML · JavaScript · Share API</p>
-    </td>
-  </tr>
-</table>
 
 
 
