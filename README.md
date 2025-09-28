@@ -1,5 +1,5 @@
 ```javascript
-class HybridVibeCoder {
+class WebDeveloper {
   constructor() {
     this.name = "Aeron Jme Castillo";
     this.role = "BSIT NT Student";
@@ -27,7 +27,7 @@ class HybridVibeCoder {
   }
 }
 
-const me = new HybridVibeCoder();
+const me = new WebDeveloper();
 me.sayHi();
 console.log(me);
 ```
