@@ -1,7 +1,7 @@
 ```javascript
 class WebDeveloper {
   constructor() {
-    this.name = "Aeron Jme Castillo";
+    this.name = "Aeron James Castillo";
     this.role = "BSIT NT Student";
     this.languageSpoken = ["en_US", "tl_PH"];
     this.skills = [
