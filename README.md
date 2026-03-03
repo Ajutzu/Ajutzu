@@ -15,7 +15,7 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
 
 <h2 align="left" id="macropower-tech"><img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Tech I Tried</h2>
 
-> 💻 Languages, ⚡ Frameworks & Libraries 
+> 💻 Languages, 🛢️ Database, ⚡ Frameworks & Libraries 
 
 <p align="left">
   <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -40,9 +40,10 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
   <img alt="Socket.io" title="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
   <img alt="Shadcn" title="Shadcn" src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
   <img alt="Storybook" title="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+    <img alt="MongoDB" title="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-> 🛠️ Tools, ☁️ Deployment & Platforms
+> 🛠️ Tools, 🌐 CMS, ☁️ Deployment & Platforms
 
 <p align="left">
   <img alt="Cursor" title="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
@@ -62,5 +63,9 @@ I’m a full-stack web developer and a senior BSIT NT student with 4 years of ex
   <img alt="Cloudflare" title="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   <img alt="n8n" title="n8n" src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img alt="Eclipse" title="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img alt="Shopify" title="Shopify" src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
+    <img alt="WordPress" title="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+    <img alt="Elementor" title="Elementor" src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
+    <img alt="Google Cloud Run" title="Google Cloud Run" src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
