@@ -142,8 +142,6 @@ Academic ranking system with GWA computation and class rankings.
 
 </table>
 
----
-
 <div align="center">
 
 `Building in public · Open to collabs · Always learning`
