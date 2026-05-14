@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="55%" valign="middle">
+<td width="40%" valign="middle">
   
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="20" /> &nbsp;**Hi, Welcome**
 
@@ -16,7 +16,7 @@ I Did in the past
 [![Follow](https://custom-icon-badges.demolab.com/github/followers/Ajutzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Ajutzu?tab=followers)&nbsp;[![Stars](https://custom-icon-badges.demolab.com/github/stars/Ajutzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/Ajutzu?tab=repositories&sort=stargazers)
 
 </td>
-<td width="45%" valign="middle" align="center">
+<td width="60%" valign="middle" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ajutzu&theme=dark&hide_border=true&background=00000000&ring=1155ba&fire=488207&currStreakLabel=1155ba" />
