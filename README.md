@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td width="55%" valign="middle">
-
+  
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="20" /> &nbsp;**Hi, Welcome**
 
 ```
@@ -10,7 +10,8 @@ Developer · Designer · Learner
 ```
 
 I build things for the web — clean code,
-thoughtful UI, projects that actually ship.
+thoughtful UI. Below is some things
+I Did in the past
 
 [![Follow](https://custom-icon-badges.demolab.com/github/followers/Ajutzu?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/Ajutzu?tab=followers)&nbsp;[![Stars](https://custom-icon-badges.demolab.com/github/stars/Ajutzu?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/Ajutzu?tab=repositories&sort=stargazers)
 
@@ -26,19 +27,13 @@ thoughtful UI, projects that actually ship.
 </tr>
 </table>
 
----
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif" width="20" /> &nbsp;Things I Did in the Past
-
 <table width="100%">
 <tr>
-
-<!-- CUTIS -->
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 **CUTIS – AI SKIN DETECTION**
 
-<img src="Projects/Cutis.png" width="100%" alt="Cutis" /><br/>
+<img src="Projects/cutis.png" width="100%" alt="Cutis" /><br/>
 
 AI-powered web and mobile app for detecting common skin conditions using computer vision.
 
@@ -53,12 +48,11 @@ AI-powered web and mobile app for detecting common skin conditions using compute
 
 </td>
 
-<!-- ELIANA -->
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-**ELIANA HARDWARE STORE – E-COMMERCE**
+**ELIANA HARDWARE STORE**
 
-<img src="https://ajcastillo.vercel.app/projects/eliana/banner.png" width="100%" alt="Eliana Hardware Store" /><br/>
+<img src="Projects/eliana.png" width="100%" alt="Eliana Hardware Store" /><br/>
 
 Freelance-built e-commerce platform with delivery management and map-based driver tracking.
 
@@ -71,17 +65,14 @@ Freelance-built e-commerce platform with delivery management and map-based drive
 [![↗ Live](https://img.shields.io/badge/↗_Live-1155ba?style=flat-square)](https://www.eliana-hardware.store/)
 
 </td>
-</tr>
-<tr>
 
-<!-- VILLA JOVITA -->
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
-**VILLA JOVITA – RESORT BOOKING SYSTEM**
+**VILLA JOVITA RESORT**
 
-<img src="https://ajcastillo.vercel.app/projects/villa-jovita/banner.png" width="100%" alt="Villa Jovita" /><br/>
+<img src="Projects/jovita.png" width="100%" alt="Villa Jovita" /><br/>
 
-Resort booking platform with real-time chat, ratings, and a full admin management panel.
+Resort booking platform with real-time chat, ratings, and admin panel.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -91,15 +82,17 @@ Resort booking platform with real-time chat, ratings, and a full admin managemen
 [![↗ Live](https://img.shields.io/badge/↗_Live-1155ba?style=flat-square)](https://villa-jovita-resort.com/index.php)
 
 </td>
+</tr>
 
-<!-- ACCESS LMS -->
-<td width="50%" valign="top">
+<tr>
 
-**ACCESS LMS – LEARNING MANAGEMENT SYSTEM**
+<td width="33.33%" valign="top">
 
-<img src="https://ajcastillo.vercel.app/projects/access-lms/banner.png" width="100%" alt="Access LMS" /><br/>
+**ACCESS LMS**
 
-Role-based LMS for managing courses, classrooms, and schedules — similar to Google Classroom.
+<img src="Projects/elms.png" width="100%" alt="Access LMS" /><br/>
+
+Role-based LMS for managing courses, classrooms, and schedules.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -109,17 +102,14 @@ Role-based LMS for managing courses, classrooms, and schedules — similar to Go
 [![↗ Live](https://img.shields.io/badge/↗_Live-1155ba?style=flat-square)](https://myaccesslms.com/)
 
 </td>
-</tr>
-<tr>
 
-<!-- TREKTRIBE -->
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 **TREKTRIBE – RUN, RIDE & COMPETE**
 
-<img src="Projects/TrekTribe.png" width="100%" alt="TrekTribe" /><br/>
+<img src="Projects/trektribe.png" width="100%" alt="TrekTribe" /><br/>
 
-Route generation, activity tracking, and gamified leaderboard platform for runners and cyclists.
+Route generation, activity tracking, and gamified leaderboard platform.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -131,14 +121,13 @@ Route generation, activity tracking, and gamified leaderboard platform for runne
 
 </td>
 
-<!-- GRADIFY -->
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 **GRADIFY – STUDENT RANKING SYSTEM**
 
-<img src="Projects/Gradify.png" width="100%" alt="Gradify" /><br/>
+<img src="Projects/gradify.png" width="100%" alt="Gradify" /><br/>
 
-Academic ranking system — students join classrooms, input grades, compute GWA, and share rankings.
+Academic ranking system with GWA computation and class rankings.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -148,7 +137,9 @@ Academic ranking system — students join classrooms, input grades, compute GWA,
 [![↗ Live](https://img.shields.io/badge/↗_Live-1155ba?style=flat-square)](https://gradify.likesyou.org/)
 
 </td>
+
 </tr>
+
 </table>
 
 ---
