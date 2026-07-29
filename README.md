@@ -2,15 +2,8 @@
   <img src="Images/banner.png" alt="Aeron James Castillo — Developer Banner" width="100%">
 </p>
 
-<br>
 
-<h1 align="center">Hi, I'm Aeron James Castillo 👋</h1>
-
-<h3 align="center">
-  Digital Craftsman · Full-Stack Developer · UI/UX Enthusiast
-</h3>
-
-<p align="center">
+<p>
   <a href="https://github.com/Ajutzu">
     <img src="https://komarev.com/ghpvc/?username=Ajutzu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
@@ -22,7 +15,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://aj-castillo.is-pinoy.dev/">
     🌐 Portfolio
   </a>
@@ -36,9 +29,8 @@
   </a>
 </p>
 
----
 
-## 🚀 About Me
+# 🚀 About Me
 
 <p align="justify">
 
@@ -50,69 +42,11 @@ My development journey has led me to work with modern JavaScript frameworks, bac
 
 > 💡 **I build things, break things, learn from them, and build them better.**
 
----
-
-## 🧩 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Applications
-
-* Responsive websites
-* Full-stack applications
-* REST APIs
-* CMS & custom platforms
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📱 Mobile Applications
-
-* React Native applications
-* Expo-based development
-* Cross-platform experiences
-* Mobile-first interfaces
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Infrastructure
-
-* AWS cloud services
-* Dockerized applications
-* CI/CD pipelines
-* Cloud deployments
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & Intelligent Systems
-
-* AI-powered applications
-* Computer vision
-* YOLO-based systems
-* AI API integrations
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 Technologies I Enjoy Working With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,php,mongodb,postgres,aws,docker,githubactions" />
 </p>
 
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://aj-castillo.is-pinoy.dev/">
