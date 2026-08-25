@@ -15,23 +15,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://aj-castillo.is-pinoy.dev/">
-    🌐 Portfolio
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Ajutzu">
-    💻 GitHub
-  </a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/ajutzu">
-    💼 LinkedIn
-  </a>
-</p>
-
-
-# 🚀 About Me
-
 <p align="justify">
 
 I'm a web and mobile developer passionate about building modern, responsive, and user-focused digital experiences. I enjoy turning ideas into functional applications—from polished front-end interfaces and full-stack web platforms to mobile applications and cloud-deployed systems.
