@@ -31,12 +31,6 @@ My development journey has led me to work with modern JavaScript frameworks, bac
 
 > 💡 **I build things, break things, learn from them, and build them better.**
 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,php,mongodb,postgres,aws,docker,githubactions" />
-</p>
-
-
 <p align="center">
   <a href="https://aj-castillo.is-pinoy.dev/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
