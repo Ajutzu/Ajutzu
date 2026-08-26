@@ -23,13 +23,11 @@ My development journey has led me to work with modern JavaScript frameworks, bac
 
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ajutzu's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 > 💡 **I build things, break things, learn from them, and build them better.**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,python,php,mongodb,postgres,aws,docker,githubactions" />
+</p>
 
 <p align="center">
   <a href="https://aj-castillo.is-pinoy.dev/">
